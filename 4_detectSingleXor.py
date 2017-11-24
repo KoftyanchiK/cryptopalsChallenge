@@ -1,4 +1,4 @@
-from singleByteXorCipher import *
+from 3_singleByteXorCipher import *
 
 file = open("4task", "r")
 for line in file:

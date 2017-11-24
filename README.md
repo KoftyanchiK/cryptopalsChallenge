@@ -1,2 +1,2 @@
 # cryptopalsChallenge
-Solving pf cryptochallenge for python learning
+Solving of cryptochallenge for python learning
